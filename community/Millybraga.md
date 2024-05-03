@@ -13,7 +13,7 @@ Me considero uma pessoa comunicativa, curiosa, criativa e com um grande entusias
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/emilly-braga-599691205)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Discordapp.com/users/819189510764101682)
 [![E-mail](https://img.shields.io/badge/-Email-D3D3D3?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:emilly.braga02@hotmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEUUSERNAME/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/SEUUSERNAME/](https://www.instagram.com/millybraga_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==))
 
 
 ## 💻 Habilidades
